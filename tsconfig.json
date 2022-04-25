@@ -1,0 +1,5 @@
+{
+  "extends": "@ivangabriele/tsconfig-next",
+  "include": ["**/*.js", "**/*.jsx", "**/*.ts", "**/*.tsx", "next-env.d.ts"],
+  "exclude": [".next/*", "node_modules/*"]
+}

@@ -1,0 +1,51 @@
+{
+  "name": "@singularity/demo",
+  "description": "Singularity UI full back-office demo.",
+  "version": "0.0.0",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "next build",
+    "dev": "next dev",
+    "prepare": "husky install",
+    "start": "next start",
+    "test": "yarn test:lint && yarn test:type",
+    "test:lint": "eslint --ext js,jsx,ts,tsx .",
+    "test:type": "tsc"
+  },
+  "dependencies": {
+    "@singularity/core": "4.0.3",
+    "next": "12.1.5",
+    "pouchdb": "7.3.0",
+    "react": "18.0.0",
+    "react-dom": "18.0.0"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "16.1.0",
+    "@commitlint/config-conventional": "16.0.0",
+    "@ivangabriele/commitlint-config": "1.0.5",
+    "@ivangabriele/eslint-config-typescript-next": "4.1.0",
+    "@ivangabriele/prettier-config": "3.0.2",
+    "@ivangabriele/tsconfig-next": "1.2.2",
+    "@types/react": "18.0.7",
+    "@typescript-eslint/eslint-plugin": "5.18.0",
+    "@typescript-eslint/parser": "5.18.0",
+    "eslint": "8.0.0",
+    "eslint-config-airbnb": "19.0.4",
+    "eslint-config-airbnb-typescript": "17.0.0",
+    "eslint-config-prettier": "8.3.0",
+    "eslint-plugin-import": "2.25.4",
+    "eslint-plugin-jest": "26.0.0",
+    "eslint-plugin-jsx-a11y": "6.5.1",
+    "eslint-plugin-prettier": "4.0.0",
+    "eslint-plugin-react": "7.28.0",
+    "eslint-plugin-react-hooks": "4.3.0",
+    "eslint-plugin-sort-destructure-keys": "1.4.0",
+    "eslint-plugin-sort-keys-fix": "1.1.2",
+    "eslint-plugin-typescript-sort-keys": "2.1.0",
+    "husky": "7.0.4",
+    "prettier": "2.5.1",
+    "typescript": "4.4.4"
+  },
+  "prettier": "@ivangabriele/prettier-config"
+}
