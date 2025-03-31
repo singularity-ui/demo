@@ -26,7 +26,7 @@
     "@ivangabriele/commitlint-config": "1.0.5",
     "@ivangabriele/eslint-config-typescript-next": "4.1.0",
     "@ivangabriele/prettier-config": "3.0.2",
-    "@ivangabriele/tsconfig-next": "1.2.2",
+    "@ivangabriele/tsconfig-next": "2.0.0",
     "@types/react": "18.0.9",
     "@typescript-eslint/eslint-plugin": "5.25.0",
     "@typescript-eslint/parser": "5.25.0",

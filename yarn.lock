@@ -356,10 +356,10 @@
   resolved "https://registry.yarnpkg.com/@ivangabriele/prettier-config/-/prettier-config-3.0.2.tgz#27cc7be7b9787248936cc2744ab0750f033320a6"
   integrity sha512-IlkhHdhDvj6me23zhB4xjXUdFLJGGeE1Od3gof04BzgLL+439bMHFQA1ZuA//+F+ENtDxNvY9dg14aOLzaAU1Q==
 
-"@ivangabriele/tsconfig-next@1.2.2":
-  version "1.2.2"
-  resolved "https://registry.yarnpkg.com/@ivangabriele/tsconfig-next/-/tsconfig-next-1.2.2.tgz#5412a3198c30995e27d30202f71d219aa829de3d"
-  integrity sha512-1GkwFHNUx+DedezJp7PvqbvMD26DpDZGXVV/a7sWDCxqp7RDD+GPdWRtLqskgdDXfdJWC+gcn6hd7JegXG6zng==
+"@ivangabriele/tsconfig-next@2.0.0":
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/@ivangabriele/tsconfig-next/-/tsconfig-next-2.0.0.tgz#a73540f4f2b120c99cd4ac04b162e1facceaed21"
+  integrity sha512-DreUCBooQQi3UJOrcr2FTrWg1TTQBr6JTu1QTUIZxIKKLVMhqpLTt+ou2t6MU5B8OvQ/9UleyDPTi43aCWOWTQ==
 
 "@next/env@12.1.6":
   version "12.1.6"
